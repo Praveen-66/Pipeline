@@ -2,6 +2,6 @@
 
 int main()
 {
-  std::cout << "Build file"
+  std::cout << "Build file" << std::endl
   return 0;
 }
