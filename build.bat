@@ -1,1 +1,1 @@
-echo "building a batch file..."
+echo "building a batch file... %date% %time%"
